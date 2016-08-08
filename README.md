@@ -9,7 +9,7 @@ $ git clone git://github.com/julianjupiter/php-mvc-phonebook.git
 You can also download it by clicking the **Clone or download** button.
 
 ## Running
-To run this project, create first database:
+To run this project, create database first:
 ```
 CREATE DATABASE phpmvcphonebook;
 USE phpmvcphonebook;
@@ -27,7 +27,7 @@ Go to the project directory:
 ```
 $ cd php-mvc-phonebook
 ```
-And execute **bin/server.sh** script. This will run the PHP built-in web server with port 8000 (can be changed to any available port) - as of PHP 5.4.0, the CLI SAPI provides a built-in web server.
+And execute **./bin/server.sh** script. This will run the PHP built-in web server with port 8000 (can be changed to any available port) - as of PHP 5.4.0, the CLI SAPI provides a built-in web server.
 
 This is the output in my personal machine:
 ```
@@ -39,4 +39,4 @@ Press Ctrl-C to quit.
 ``` 
 Open your browser and point it to http://127.0.0.1:8000.
 
-Disclaimer: This project is complete yet (no validations, no exceptions, etc.) You suggestions will be highly appreciated.
+Disclaimer: This project is not complete yet (no validations, no exceptions, etc.) You suggestions will be highly appreciated.
