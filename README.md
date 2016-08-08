@@ -27,8 +27,10 @@ Go to the project directory:
 ```
 $ cd php-mvc-phonebook
 ```
-And execute **./bin/server.sh** script. This will run the PHP built-in web server with port 8000 (can be changed to any available port) - as of PHP 5.4.0, the CLI SAPI provides a built-in web server.
-
+And execute **bin/server.sh** script. This will run the PHP built-in web server with port 8000 (can be changed to any available port) - as of PHP 5.4.0, the CLI SAPI provides a built-in web server.
+```
+$ ./bin/server.sh
+```
 This is the output in my personal machine:
 ```
 julian@jupiter:~/Workspace/github/php-mvc-phonebook$ ./bin/server.sh
@@ -39,4 +41,4 @@ Press Ctrl-C to quit.
 ``` 
 Open your browser and point it to http://127.0.0.1:8000.
 
-Disclaimer: This project is not complete yet (no validations, no exceptions, etc.) You suggestions will be highly appreciated.
+Disclaimer: This project is not complete yet (no validations, no exceptions, etc.) Your suggestions will be highly appreciated.
