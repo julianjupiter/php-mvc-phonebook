@@ -110,7 +110,7 @@ class ContactController
             {
                 $this->view->redirect('/contact');   
             } else {
-                $this->view->redirect('/contact/' . $id);
+                $this->view->redirect('/contact');
             }
         }
     }
