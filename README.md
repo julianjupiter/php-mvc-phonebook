@@ -1,5 +1,5 @@
 # PHP MVC Phonebook
-Simple phonebook application using MVC in PHP. This is the MVC version of phonebook I wrote for my blog in http://jjupitersnotebook.blogspot.com.
+Simple phonebook application using MVC in PHP. This is the MVC version of phonebook I wrote for my [blog](http://jjupitersnotebook.blogspot.com/2012/10/phonebook-application-with-php-and-mysql-crud-operation.html).
 
 ## Cloning
 To clone this project, simply execute the following command using Terminal:
