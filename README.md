@@ -6,6 +6,10 @@ To clone this project, simply execute the following command using Terminal:
 ```
 $ git clone git://github.com/julianjupiter/php-mvc-phonebook.git
 ```
+Or:
+```
+$ git clone https://github.com/julianjupiter/php-mvc-phonebook.git
+```
 You can also download it by clicking the **Clone or download** button.
 
 ## Running
